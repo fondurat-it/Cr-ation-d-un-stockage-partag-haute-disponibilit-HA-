@@ -1,14 +1,5 @@
 ---
-title: "Création d'un stockage partagé à haute disponibilité (HA) d'un cluster basé sur DRBD à deux nœuds avec un réseau basé sur RDMA."
-categories:
-  - Blog
-tags:
-  - Shared Volume
-  - HA
-  - Live Migration 
-  - DRBD 
-  - RDMA
-  - PROXMOX
+
 ---
 
 # 1.	Création d'un stockage partagé à haute disponibilité (HA) d'un cluster basé sur DRBD à deux nœuds avec un réseau basé sur RDMA. 
